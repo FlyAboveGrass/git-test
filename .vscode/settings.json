@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": ["./src/client"],
+  "commentTranslate.multiLineMerge": true,
+  "cSpell.words": ["inited"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
